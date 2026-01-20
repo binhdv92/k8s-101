@@ -1,0 +1,1 @@
+kubectl create -f .\voting-app-pod.yaml
